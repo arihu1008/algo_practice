@@ -18,3 +18,7 @@ function groupAnagrams(strs) {
 
 console.log(groupAnagrams(strs));
 
+/*
+Time complexity: O(n*klog(k))
+Space complexity: O(n)
+*/
